@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+ES+Deco:wght@100..400&family=Playwrite+US+Modern:wght@100..400&display=swap');
+body{
+    margin: 10px 150px;
+    height: 100vh;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.divul{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 35px;
+}
+.navbar ul{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    list-style: none;
+}
+.navbar ul a{
+    text-decoration: none;
+    color: black;
+}
+.button{
+  border: none;
+  background-color: rgb(236, 70, 41);
+  color: white;
+  padding: 7px 25px;
+  border-radius: 3px;
+}
+.blog{
+    border-bottom: 1px solid black;
+}
+.div1{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-bottom: 25px;
+}
+.div2{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.bruno{
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
+
+
